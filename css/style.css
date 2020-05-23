@@ -2103,7 +2103,7 @@ h3 {
   color: #F5F6F7;
   font-size: 235px;
   position: absolute;
-  left: 21%;
+  left: 5%;
   top: 0;
   line-height: 1;
 }
@@ -2464,19 +2464,19 @@ h3 {
 
 /* line 38, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_footer.scss */
 .footer .copy-right_text {
-  padding-bottom: 30px;
+  padding-bottom: 10px;
   background: #001D38;
 }
 
 /* line 41, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_footer.scss */
 .footer .copy-right_text .footer_border {
-  padding-bottom: 30px;
+  padding-bottom: 10px;
   border-top: 1px solid #334A60;
 }
 
 /* line 45, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_footer.scss */
 .footer .copy-right_text .copy_right {
-  font-size: 13px;
+  font-size: 7px;
   color: #C7C7C7;
   margin-bottom: 0;
   font-weight: 400;
@@ -2485,7 +2485,7 @@ h3 {
 @media (max-width: 767px) {
   /* line 45, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_footer.scss */
   .footer .copy-right_text .copy_right {
-    font-size: 13px;
+    font-size: 7px;
   }
 }
 
