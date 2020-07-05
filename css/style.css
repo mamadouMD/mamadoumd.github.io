@@ -3694,6 +3694,10 @@ h3 {
   margin-bottom: 20px;
 }
 
+fieldset.pure-group.honeypot-field {
+    display: none;
+}
+
 /* line 53, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_contact.scss */
 .form-contact label {
   font-size: 14px;
